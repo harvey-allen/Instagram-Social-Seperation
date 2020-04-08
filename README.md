@@ -7,3 +7,5 @@ Six degrees of separation is the idea that all people are six, or fewer, social 
 ### Assumptions:
 1) All of the subjects social connections can be visualised through instagram.
 2) A social connection is only valid is the user being followed is also follwing the subject.
+
+NOT TESTED
